@@ -1,8 +1,8 @@
 {
-  "name": "about.psysession.com",
+  "name": "static-boilerplate",
   "version": "1.0.0",
-  "description": "About landing page for psysession.com",
-  "main": "index.js",
+  "description": "A boilerplate for static files",
+  "main": "src/index.html",
   "repository": {},
   "author": "ItamarGronich <ItamarGronich@Gmail.com>",
   "license": "MIT",
