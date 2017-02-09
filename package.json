@@ -1,0 +1,19 @@
+{
+  "name": "about.psysession.com",
+  "version": "1.0.0",
+  "description": "About landing page for psysession.com",
+  "main": "index.js",
+  "repository": {},
+  "author": "ItamarGronich <ItamarGronich@Gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-rev-all": "^0.9.7",
+    "gulp-sourcemaps": "^2.4.1",
+    "less": "^2.7.2"
+  }
+}
